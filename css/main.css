@@ -312,6 +312,7 @@ ul li {
 }
 .banner-text p {
 	color: #fff;
+	font-family: "Roboto Slab", sans-serif;
 	font-size: 19px;
 	font-weight: 400;
 	letter-spacing: 3px;
@@ -444,7 +445,7 @@ ul li {
 	Hire me
 -------------------------------------------------------------------------------*/
 .hireme {
-	background-color: #fafafa;
+	background-color: #dcdcdc;
 }
 .hireme h3 {
 	font-family: "Roboto", sans-serif;
@@ -522,7 +523,7 @@ ul li {
 .innerbanner-text p {
 	color: #fff;
 	font-family: "Roboto Slab", sans-serif;
-	font-size: 36px;
+	font-size: 50px;
 	font-weight: 400;
 	letter-spacing: 3px;
 	line-height: 24px;
