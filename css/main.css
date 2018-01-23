@@ -516,6 +516,7 @@ ul li {
 	min-height: 100%;
 }
 .innerbanner-text {
+	font-family: "Roboto Slab", sans-serif;
 	padding-top: 20%;
 	padding-bottom: 5%;
 }
